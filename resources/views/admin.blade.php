@@ -23,7 +23,7 @@
                             <th>Image</th>
                             <th>Designation</th>
                             <th>Status</th>
-                            <th>Company Name</th>
+                            <th>Company </th>
                         </tr>
                     </thead>
 
