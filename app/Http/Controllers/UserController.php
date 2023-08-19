@@ -34,7 +34,7 @@ class UserController extends Controller
         $admin->name = $request->name;
         $admin->designation = $request->designation;
         $admin->email = $request->email;
-        $admin->company_name = $request->company;
+        $admin->company_name = $request->company_name;
 
 
         $admin->save();
